@@ -1,0 +1,16 @@
+circleShare/
+├── client/               # React Frontend
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   ├── context/
+│   │   └── App.jsx
+│   └── package.json
+├── server/               # Node.js Backend
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   ├── config/
+│   └── server.js
+└── README.md
